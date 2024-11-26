@@ -2,7 +2,7 @@
 ## REGISTER NO: 212222230130
 ## EXP:02
 
-# Control-of-Relay-Using-IoT-controller
+# Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
